@@ -4,3 +4,155 @@ Started GET "/pages/home" for 127.0.0.1 at 2012-04-25 20:23:42 -0700
   Processing by PagesController#home as HTML
 Rendered pages/home.html.erb within layouts/application (1.5ms)
 Completed 200 OK in 6ms (Views: 5.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home" for 127.0.0.1 at 2012-05-01 20:17:40 -0700
+
+ActionController::RoutingError (No route matches "/home"):
+  
+
+Rendered /Users/rviswambharan/.rvm/gems/ruby-1.9.2-p318@rails3tutorial/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.6ms)
+
+
+Started GET "/Pages/home" for 127.0.0.1 at 2012-05-01 20:32:04 -0700
+
+ActionController::RoutingError (No route matches "/Pages/home"):
+  
+
+Rendered /Users/rviswambharan/.rvm/gems/ruby-1.9.2-p318@rails3tutorial/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.4ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2012-05-01 20:32:19 -0700
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (2.5ms)
+Completed 200 OK in 8ms (Views: 7.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2012-05-01 20:39:17 -0700
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (2.0ms)
+Completed 200 OK in 8ms (Views: 7.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2012-05-01 20:39:55 -0700
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 5ms (Views: 5.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2012-05-01 20:39:56 -0700
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (2.6ms)
+Completed 200 OK in 9ms (Views: 8.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/Pages/home" for 127.0.0.1 at 2012-05-01 20:40:23 -0700
+
+ActionController::RoutingError (No route matches "/Pages/home"):
+  
+
+Rendered /Users/rviswambharan/.rvm/gems/ruby-1.9.2-p318@rails3tutorial/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.4ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2012-05-01 20:40:31 -0700
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 8ms (Views: 7.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2012-05-01 20:41:05 -0700
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 5ms (Views: 4.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2012-05-01 20:41:08 -0700
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (18.9ms)
+Completed 200 OK in 25ms (Views: 24.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2012-05-01 20:42:12 -0700
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb (0.5ms)
+Completed 200 OK in 6ms (Views: 5.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for 127.0.0.1 at 2012-05-01 20:54:53 -0700
+  Processing by PagesController#contact as HTML
+Rendered pages/contact.html.erb (0.4ms)
+Completed 200 OK in 4ms (Views: 3.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/about" for 127.0.0.1 at 2012-05-01 20:55:05 -0700
+  Processing by PagesController#about as HTML
+Rendered pages/about.html.erb (0.3ms)
+Completed 200 OK in 4ms (Views: 4.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2012-05-02 20:34:00 -0700
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb (0.7ms)
+Completed 200 OK in 6ms (Views: 5.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for 127.0.0.1 at 2012-05-02 20:34:15 -0700
+  Processing by PagesController#contact as HTML
+Rendered pages/contact.html.erb (0.5ms)
+Completed 200 OK in 4ms (Views: 4.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/about" for 127.0.0.1 at 2012-05-02 20:34:26 -0700
+  Processing by PagesController#about as HTML
+Rendered pages/about.html.erb (0.4ms)
+Completed 200 OK in 6ms (Views: 5.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/about" for 127.0.0.1 at 2012-05-02 20:42:42 -0700
+  Processing by PagesController#about as HTML
+Rendered pages/about.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 106ms (Views: 105.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/Pages/home" for 127.0.0.1 at 2012-05-02 20:42:48 -0700
+
+ActionController::RoutingError (No route matches "/Pages/home"):
+  
+
+Rendered /Users/rviswambharan/.rvm/gems/ruby-1.9.2-p318@rails3tutorial/gems/actionpack-3.0.1/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.8ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2012-05-02 20:42:53 -0700
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/about" for 127.0.0.1 at 2012-05-02 20:43:03 -0700
+  Processing by PagesController#about as HTML
+Rendered pages/about.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 6ms (Views: 5.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for 127.0.0.1 at 2012-05-02 20:43:12 -0700
+  Processing by PagesController#contact as HTML
+Rendered pages/contact.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 11ms (Views: 10.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/contact" for 127.0.0.1 at 2012-05-02 20:44:22 -0700
+  Processing by PagesController#contact as HTML
+Rendered pages/contact.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 8ms (Views: 7.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/about" for 127.0.0.1 at 2012-05-02 20:44:30 -0700
+  Processing by PagesController#about as HTML
+Rendered pages/about.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/home" for 127.0.0.1 at 2012-05-02 20:44:36 -0700
+  Processing by PagesController#home as HTML
+Rendered pages/home.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 5ms (Views: 4.4ms | ActiveRecord: 0.0ms)
